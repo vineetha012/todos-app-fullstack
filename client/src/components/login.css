@@ -1,0 +1,48 @@
+.login-reg{
+    background-color: rgb(93, 229, 229);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+.login-reg-container{
+    background-color: rgb(15, 140, 189);
+    height: 70vh;
+    width: 70vw;
+    margin: auto;
+    border-radius: 20px;
+    display: flex;
+}
+.center{
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+.createblog{
+    margin: 0;
+    height: 100vh;
+    background-color: aqua;
+}
+.createblogform{
+    border: 1px solid gray;
+    width: 70%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: auto;
+    background-color: aliceblue;
+}
+.uploadbtn{
+    margin: auto;
+    margin-top: 80px;
+    width: 100px;
+    border-radius: 10px;
+    height: 40px;
+    background-color: rgb(105, 197, 105);
+    color: white;
+    font-size: 20px;
+    border:1px solid green ;
+}
+.uploadbtn:hover{
+    background-color: green;
+}
